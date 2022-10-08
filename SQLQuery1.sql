@@ -1,0 +1,1 @@
+﻿Select * from dbo.tbl_users where userName = 'admin' and password = '1234'
